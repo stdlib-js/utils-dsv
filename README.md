@@ -65,7 +65,7 @@ The namespace contains the following sub-namespaces:
 
 <!-- </toc> -->
 
-The namespace contains the following packages:
+The namespace contains the following utilities:
 
 <!-- <toc pattern="*"> -->
 
