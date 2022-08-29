@@ -63,11 +63,22 @@ The namespace contains the following sub-namespaces:
 
 <!-- <toc pattern="base"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`base`][@stdlib/utils/dsv/base]</span><span class="delimiter">: </span><span class="description">base utilities for working with data formatted as delimiter-separated values (DSV).</span>
+
+</div>
+
 <!-- </toc> -->
 
 The namespace contains the following utilities:
 
 <!-- <toc pattern="*"> -->
+
+<div class="namespace-toc">
+
+
+</div>
 
 <!-- </toc> -->
 
@@ -172,6 +183,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-dsv/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/utils/dsv/base]: https://github.com/stdlib-js/utils-dsv-base
 
 <!-- </toc-links> -->
 
