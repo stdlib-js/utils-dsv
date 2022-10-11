@@ -47,6 +47,7 @@
     "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
+    "@stdlib/utils-dsv-base-parse": "^0.0.x",
     "@stdlib/utils-escape-regexp-string": "^0.0.x",
     "@stdlib/utils-keys": "^0.0.x",
     "@stdlib/utils-noop": "^0.0.x",
